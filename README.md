@@ -31,7 +31,10 @@ python predict.py    # Run sentiment prediction in console
 ```
 
 ## Dataset
-The dataset is `IMDB Dataset.csv`, containing 50 000 labeled reviews.
+This project uses the IMDB Dataset of 50,000 movie reviews for sentiment analysis.
+
+You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).  
+After downloading, place the file `IMDB Dataset.csv` in the root folder of the project.
 
 ## Example
 ```
