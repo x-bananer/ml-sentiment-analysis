@@ -8,4 +8,5 @@ venv/
 .ipynb_checkpoints/
 *.pkl
 *.joblib
-.idea/IMDB Dataset.csv
+.idea/
+IMDB Dataset.csv
